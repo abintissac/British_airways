@@ -1,0 +1,1 @@
+Analyzing customer insights and building predictive models to understand the factors influencing buying behavior within the context of the airline industry. Specifically, you will leverage your data analytics skills using tools like Jupyter Notebook to extract meaningful insights from large datasets provided by British Airways.
